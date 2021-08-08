@@ -1,0 +1,31 @@
+{
+  "name": "e-library-app",
+  "version": "1.0.0",
+  "description": "this is online library application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsaran93/e-library-app.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "express",
+    "server"
+  ],
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsaran93/e-library-app/issues"
+  },
+  "homepage": "https://github.com/vsaran93/e-library-app#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.1.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1"
+  }
+}
